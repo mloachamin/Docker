@@ -1,4 +1,4 @@
-# Docker / Kubernets
-Tareas Curso de Docker y Kubernets
+# Tarea Curso de Dockers y Kubernets
 
-Imagen Compartida en Docker Hub
+Imagen Compartida del repositorio en Docker Hub
+mrloachamin/microservicio_mauricio
